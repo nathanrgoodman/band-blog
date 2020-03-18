@@ -1,7 +1,11 @@
-.title {color:rgb(160, 0, 80); font-family: 'Aclonica' ; background-color: black; margin-right: 1050px;}
-.sidebar {font-family:  "Aclonica"; float: right;color: rgb(160, 0, 80) ; background-color: black; }
+.title {color:rgb(160, 0, 80); font-family: 'Aclonica' ; background-color: black; margin-right: 1050px; border: 2px solid hotpink;}
+.sidebar {font-family:  "Aclonica"; float: right;color: rgb(160, 0, 80) ; background-color: black; border: 2px solid hotpink; }
 body {
   background-image: url("../tool.gif");
   background-color: #cccccc;
  }
  img {float: initial;}
+ .about {margin: 12px;
+  border: 2px solid hotpink;
+  padding: 4px;
+  background-color: black; color:rgb(160, 0, 80); font-family: 'Aclonica' ;}
