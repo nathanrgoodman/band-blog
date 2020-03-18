@@ -1,4 +1,4 @@
-.title {color:rgb(160, 0, 80); font-family: 'Aclonica' ; background-color: black; margin-right: 1050px; border: 2px solid hotpink; margin-bottom: 20px;}
+.title {color:rgb(160, 0, 80); font-family: 'Aclonica' ; background-color: black; margin-right: 1050px; border: 2px solid hotpink; margin-bottom: 20px; text-align: center; display: inline-block; margin: auto; width: 50%;}
 .sidebar {font-family:  "Aclonica"; float: right;color: rgb(160, 0, 80) ; background-color: black; border: 2px solid hotpink; }
 body {
   background-image: url("../tool.gif");
